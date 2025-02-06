@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js Next.js Tailwind**
 
-- 👨‍💻 All of my projects are available at [www.sparshjaiswal.in](www.sparshjaiswal.in)
+- 👨‍💻 All of my projects are available at [www.sparshjaiswal.in](https://www.sparshjaiswal.in)
 
 - 💬 Ask me about **Flutter, Firebase, Supbase, Node js, Typscript, AWS, PostgreSql**
 
