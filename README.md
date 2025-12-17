@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Jaiswal</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-- 🌱 I’m currently learning **React.js Next.js Tailwind**
+- 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [www.sparshjaiswal.in](https://www.sparshjaiswal.in)
 
